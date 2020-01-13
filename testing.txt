@@ -1,2 +1,4 @@
 pues voy a testear el commit
 ahora voy a testiar los emojis
+probando de nuevo los emojis por que la cage :voy
+y probando si sirve desde el terminal
